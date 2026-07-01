@@ -1,4 +1,4 @@
 from django.http import JsonResponse
 
 def home(request):
-    return JsonResponse({"message": "Welcome to Nyutu"})
+    return JsonResponse({"message": "Welcome Fletcher"})
